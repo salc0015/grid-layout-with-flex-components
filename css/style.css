@@ -12,6 +12,8 @@ body {
   }
   
   .emoji {
+    display: flex;
+    flex-direction: column;
     border: 1px solid #222;
     border-radius: 8px;
     padding: 1rem;
