@@ -33,6 +33,8 @@ body {
   }
   
   .icon {
+    display: flex;
+    justify-content: center;
     font-size: 4rem;
     order: -1;
   }
